@@ -1,0 +1,22 @@
+{
+  "name": "DemoMongoose",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "async": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "hbs": "^4.0.1",
+    "mongoose": "^9.1.5",
+    "morgan": "*",
+    "nodemon": "^3.1.11",
+    "q": "*",
+    "serve-favicon": "*",
+    "underscore": "*"
+  }
+}
